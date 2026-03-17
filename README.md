@@ -10,8 +10,6 @@ My main tech stack is Java, MySQL, and Spring Boot. My favorite tools are sceneb
 
 I've got a few projects currently in the works, but my big project right now is ERP-System-2.0.
 
-I have 2 public repos currently, but privately.. its closer to about 30 at this point.
-
 If you want to know more about me, I am available to talk through my LinkedIn!
 <!--
 **Remdawg123/remdawg123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
